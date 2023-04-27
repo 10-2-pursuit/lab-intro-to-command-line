@@ -12,6 +12,14 @@ It's time for you to practice navigating around the command line.
 
 1. Navigate to the folder and open it with VSCode. Then, follow the instructions below.
 
+
+
+
+
+
+
+
+
 ### Completing this Lab
 
 For each of the tasks below, you will need to follow the steps exactly. Then, you'll use the `history` command as described below to get a print out of the last commands you ran. Each line printed out should match one of the instructions. If it didn't work exactly right, practice again!
