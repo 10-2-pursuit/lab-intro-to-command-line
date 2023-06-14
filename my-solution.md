@@ -7,7 +7,7 @@ history | tail -n 10
  2333  git commit -m "Submission"
  2334  git push 
  2335  cd ..
- 2336  lls
+ 2336  ls
  2337  ls
  2338  cd Desktop
  2339  mkdir introductory-command-line-lab
